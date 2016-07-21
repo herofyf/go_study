@@ -1,1 +1,4 @@
 gdb debug: https://golang.org/doc/gdb
+
+
+go tutorial: http://www.tutorialspoint.com/go/go_interfaces.htm
